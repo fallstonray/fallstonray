@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fallstonray
 - 👀 I’m interested in creating a database for tracking customers and jobs.
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Django and mySQL
+- 💞️ I’m looking to collaborate on Django apps for tracking location visits.
 - 📫 How to reach me raycorkran@gmail.com
 
 <!---
